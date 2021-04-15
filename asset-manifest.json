@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c63225e.chunk.css",
-    "main.js": "/static/js/main.01d021e6.chunk.js",
-    "main.js.map": "/static/js/main.01d021e6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e72fb69b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e72fb69b.js.map",
-    "static/css/2.fe359a49.chunk.css": "/static/css/2.fe359a49.chunk.css",
-    "static/js/2.d2ccf91f.chunk.js": "/static/js/2.d2ccf91f.chunk.js",
-    "static/js/2.d2ccf91f.chunk.js.map": "/static/js/2.d2ccf91f.chunk.js.map",
-    "static/js/3.cfb61cac.chunk.js": "/static/js/3.cfb61cac.chunk.js",
-    "static/js/3.cfb61cac.chunk.js.map": "/static/js/3.cfb61cac.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.2c63225e.chunk.css.map": "/static/css/main.2c63225e.chunk.css.map",
-    "static/js/2.d2ccf91f.chunk.js.LICENSE.txt": "/static/js/2.d2ccf91f.chunk.js.LICENSE.txt"
+    "main.css": "/DindoLeonard/face-detect-front.git/static/css/main.2c63225e.chunk.css",
+    "main.js": "/DindoLeonard/face-detect-front.git/static/js/main.01d021e6.chunk.js",
+    "main.js.map": "/DindoLeonard/face-detect-front.git/static/js/main.01d021e6.chunk.js.map",
+    "runtime-main.js": "/DindoLeonard/face-detect-front.git/static/js/runtime-main.1ac804d1.js",
+    "runtime-main.js.map": "/DindoLeonard/face-detect-front.git/static/js/runtime-main.1ac804d1.js.map",
+    "static/css/2.fe359a49.chunk.css": "/DindoLeonard/face-detect-front.git/static/css/2.fe359a49.chunk.css",
+    "static/js/2.4831cd2e.chunk.js": "/DindoLeonard/face-detect-front.git/static/js/2.4831cd2e.chunk.js",
+    "static/js/2.4831cd2e.chunk.js.map": "/DindoLeonard/face-detect-front.git/static/js/2.4831cd2e.chunk.js.map",
+    "static/js/3.cfb61cac.chunk.js": "/DindoLeonard/face-detect-front.git/static/js/3.cfb61cac.chunk.js",
+    "static/js/3.cfb61cac.chunk.js.map": "/DindoLeonard/face-detect-front.git/static/js/3.cfb61cac.chunk.js.map",
+    "index.html": "/DindoLeonard/face-detect-front.git/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/DindoLeonard/face-detect-front.git/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2c63225e.chunk.css.map": "/DindoLeonard/face-detect-front.git/static/css/main.2c63225e.chunk.css.map",
+    "static/js/2.4831cd2e.chunk.js.LICENSE.txt": "/DindoLeonard/face-detect-front.git/static/js/2.4831cd2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e72fb69b.js",
+    "static/js/runtime-main.1ac804d1.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.d2ccf91f.chunk.js",
+    "static/js/2.4831cd2e.chunk.js",
     "static/css/main.2c63225e.chunk.css",
     "static/js/main.01d021e6.chunk.js"
   ]
